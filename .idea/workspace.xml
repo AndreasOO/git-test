@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="988bae9c-61b0-44e5-bd2f-04097c7aa579" name="Changes" comment="Init and boilerplate" />
+    <list default="true" id="988bae9c-61b0-44e5-bd2f-04097c7aa579" name="Changes" comment="changed val1 to val7" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="float-1-2-3-to-10-11-12" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -73,7 +73,31 @@
       <option name="project" value="LOCAL" />
       <updated>1729773894048</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="changed val1 to val7">
+      <option name="closed" value="true" />
+      <created>1729774546239</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729774546239</updated>
+    </task>
+    <task id="LOCAL-00003" summary="changed val1 to val7">
+      <option name="closed" value="true" />
+      <created>1729774627082</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729774627082</updated>
+    </task>
+    <task id="LOCAL-00004" summary="changed val1 to val7">
+      <option name="closed" value="true" />
+      <created>1729774682150</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729774682150</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +105,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init and boilerplate" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init and boilerplate" />
+    <MESSAGE value="changed val1 to val7" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed val1 to val7" />
   </component>
 </project>
